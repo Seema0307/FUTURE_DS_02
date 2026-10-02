@@ -6,6 +6,9 @@
 This project analyzes customer retention and churn patterns for a subscription-based business using Power BI.
 
 The analysis focuses on identifying churn trends, understanding customer segments associated with churn, and providing actionable insights to support customer retention.
+## 📊 Dashboard Preview
+
+![Customer Retention & Churn Dashboard](screenshots/dashboard.png)
 
 ## 🎯 Objectives
 
